@@ -85,3 +85,12 @@ ul, ol, li, menu {
 }
 
 /* end main-content rules */
+
+
+/* start header */
+.header .row {
+    justify-content: space-between;
+}
+
+
+/* end header */
