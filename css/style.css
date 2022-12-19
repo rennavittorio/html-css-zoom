@@ -19,10 +19,10 @@ ul, ol, li, menu {
     list-style: none;
 }
 
-.container {
+/* .container {
     max-width: 900px;
     margin: 0 auto;
-}
+} */
 
 .row {
     display: flex;
@@ -36,6 +36,11 @@ ul, ol, li, menu {
 .debug .main-content {
     padding: 20px;
     border: 2px dashed cornflowerblue;
+}
+
+.debug .app-view {
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 .debug .row {
