@@ -39,7 +39,7 @@ ul, ol, li, menu {
 }
 
 .debug .app-view {
-    max-width: 900px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 
@@ -90,6 +90,11 @@ ul, ol, li, menu {
 /* start header */
 .header .row {
     justify-content: space-between;
+}
+
+.button-section {
+    display: flex;
+    justify-content: center;
 }
 
 .button {
