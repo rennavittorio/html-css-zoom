@@ -15,3 +15,11 @@ img {
 }
 
 /* end general rules */
+
+
+.debug .app-view,
+.debug .header,
+.debug .main-content {
+    padding: 20px;
+    border: 2px dashed cornflowerblue;
+}
